@@ -1,9 +1,9 @@
 {
     "name": "OpenMageModuleFostering/Mage_Locale_fr_FR",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "AFL-v3.0",
     "homepage": "",
-    "description": "Magento French Translation",
+    "description": "fr_FR locale",
     "authors": [
     {
         "name": "Magento Core Team",
