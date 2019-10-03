@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Mage_Locale_fr_FR",
+    "name": "OpenMageModuleFostering\/Mage_Locale_fr_FR",
     "type": "magento-module",
     "license": "AFL-v3.0",
     "homepage": "",
     "description": "fr_FR locale",
     "authors": [
-    {
-        "name": "Magento Core Team",
-        "email": "core@magentocommerce.com"
-    }
-],
+        {
+            "name": "Magento Core Team",
+            "email": "core@magentocommerce.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
